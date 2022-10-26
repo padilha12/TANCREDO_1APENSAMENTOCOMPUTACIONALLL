@@ -1,15 +1,20 @@
 body{
     text-align: center;
-     background-color:rgb(181, 244, 215)
+    background-color: rgb(164, 198, 235);
 }
 .capa{
-    width: 100%;
+    width: 95%;
 }
 .beneficios{
     text-align: left;
     background-color: rgb(157, 224, 222);
     display: inline-block;
 
+}
+.foto-beneficio{
+    width: 30%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px #00000 0;
 }
 ul{
     display: inline-block;
